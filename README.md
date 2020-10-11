@@ -1,2 +1,1 @@
-### Hexlet tests and linter status:
-![Actions Status](/workflows/hexlet-check/badge.svg)
+<a href="https://codeclimate.com/github/maksOmy/frontend-project-lvl3/maintainability"><img src="https://api.codeclimate.com/v1/badges/60b2d49881da30ac15b0/maintainability" /></a> <a href="https://codeclimate.com/github/maksOmy/frontend-project-lvl3/test_coverage"><img src="https://api.codeclimate.com/v1/badges/60b2d49881da30ac15b0/test_coverage" /></a> <a href="https://github.com/maksOmy/frontend-project-lvl3/actions"><img src="https://github.com/maksOmy/frontend-project-lvl3/workflows/Node%20CI/badge.svg" /></a>
